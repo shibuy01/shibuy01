@@ -45,5 +45,5 @@ real-world scalable applications.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
+- LinkedIn: https://www.linkedin.com/in/shibu-kumar-40525531a/
+- Email: shibuy01@gmail.com
