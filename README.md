@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Shibu Kumar
 
-<!--
-**shibuy01/shibuy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a Java Backend Developer passionate about building
+scalable and reliable backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with:
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST API
+- MySQL
+- Redis
+- Kafka
+- Docker
+- AWS
+
+## 💻 My Projects
+
+### 🎫 Help Desk AI
+An AI-powered Help Desk application using Spring AI,
+Spring Boot and database tools.
+
+### 🏋️ Fitness Recommendation System
+A Spring Boot based recommendation system with REST APIs
+and JWT authentication.
+
+## 🎯 My Goal
+
+My goal is to become a strong Backend Developer and build
+real-world scalable applications.
+
+## 📚 Currently Learning
+
+- Spring AI
+- Microservices
+- Redis
+- Kafka
+- Docker
+- AWS
+- Kubernetes
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Email: Your Email
