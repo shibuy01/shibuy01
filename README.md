@@ -131,6 +131,7 @@ I enjoy designing REST APIs, implementing authentication and authorization, work
 * Maven
 * Docker
 
+  # 🚀 Featured Projects
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📇 Smart Contact Manager
@@ -163,8 +164,6 @@ https://smartcontactmanager-ok52.onrender.com
 https://github.com/shibuy01/SmartContactManager
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🚀 Featured Projects
 
 ## 🎫 Help Desk AI
 
